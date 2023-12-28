@@ -23,3 +23,17 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+Console.WriteLine("Home Work");
+
+int a = 5;
+int b = 6;
+long c = 60;
+int d = 0;
+int one = a * b;
+long two = c + d;
+Console.WriteLine(one);
+Console.WriteLine(two);
+
+double three = one / two;
+Console.WriteLine(three);
