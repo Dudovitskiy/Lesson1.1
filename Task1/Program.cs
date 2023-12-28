@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello Wotld");
+﻿//Console.WriteLine("Hello Wotld");
 
 
 int value = 100;
