@@ -27,13 +27,13 @@ Console.WriteLine(quotient2);
 Console.WriteLine("Home Work");
 
 int a = 5;
-int b = 6;
-long c = 30;
-long = 30;
-int one = a * b;
-long two = c + d;
-Console.WriteLine(one);
-Console.WriteLine(two);
+long b = 6;
+double c = 29.5;
+double d = 30.5;
+long t1 = a * b;
+double t2 = c + d;
+Console.WriteLine(t1);
+Console.WriteLine(t2);
 
-double three = one / two;
-Console.WriteLine(three);
+double t3 = t1 / t2;
+Console.WriteLine(t3);
